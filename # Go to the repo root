@@ -1,0 +1,9 @@
+# Go to the repo root
+cd propert-reg-expert
+
+# 1. Remove the rogue file
+rm -f app                       # macOS / Linux
+del /f app                      # Windows CMD
+
+# 2. Create the correct folder
+mkdir -p src/app
