@@ -1,0 +1,3 @@
+git add .
+git commit -m "fix: add missing app directory for Next.js 14"
+git push origin main
